@@ -128,7 +128,7 @@ To test different configurations, modify `input.txt` with desired process descri
 ## 🧑‍💻 Author
 
 **Malhar Datta Mahajan**  
-📫 [LinkedIn]([https://linkedin.com/in/malharmahajan](https://www.linkedin.com/in/malhar-mahajan-24a93214a/)) · [GitHub](https://github.com/MaafiaTroodon)
+📫 [LinkedIn](https://www.linkedin.com/in/malhar-mahajan-24a93214a/) · [GitHub](https://github.com/MaafiaTroodon)
 
 ---
 
