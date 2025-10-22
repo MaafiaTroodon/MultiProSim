@@ -1,0 +1,279 @@
+[01] 00000: process 1 new
+[01] 00000: process 1 ready
+[01] 00000: process 1 running
+[01] 00001: process 1 ready
+[01] 00001: process 1 running
+[01] 00002: process 1 blocked (send)
+[01] 00005: process 1 ready
+[01] 00005: process 1 running
+[01] 00006: process 1 blocked (recv)
+[01] 00009: process 1 blocked
+[01] 00012: process 1 ready
+[01] 00012: process 1 running
+[01] 00013: process 1 ready
+[01] 00013: process 1 running
+[01] 00014: process 1 blocked (send)
+[01] 00017: process 1 ready
+[01] 00017: process 1 running
+[01] 00018: process 1 blocked (recv)
+[01] 00021: process 1 blocked
+[01] 00024: process 1 ready
+[01] 00024: process 1 running
+[01] 00025: process 1 ready
+[01] 00025: process 1 running
+[01] 00026: process 1 blocked (send)
+[01] 00029: process 1 ready
+[01] 00029: process 1 running
+[01] 00030: process 1 blocked (recv)
+[01] 00033: process 1 blocked
+[01] 00036: process 1 ready
+[01] 00036: process 1 running
+[01] 00037: process 1 ready
+[01] 00037: process 1 running
+[01] 00038: process 1 blocked (send)
+[01] 00041: process 1 ready
+[01] 00041: process 1 running
+[01] 00042: process 1 blocked (recv)
+[01] 00045: process 1 blocked
+[01] 00048: process 1 ready
+[01] 00048: process 1 running
+[01] 00049: process 1 ready
+[01] 00049: process 1 running
+[01] 00050: process 1 blocked (send)
+[01] 00053: process 1 ready
+[01] 00053: process 1 running
+[01] 00054: process 1 blocked (recv)
+[01] 00057: process 1 blocked
+[01] 00060: process 1 ready
+[01] 00060: process 1 running
+[01] 00061: process 1 ready
+[01] 00061: process 1 running
+[01] 00062: process 1 blocked (send)
+[01] 00065: process 1 ready
+[01] 00065: process 1 running
+[01] 00066: process 1 blocked (recv)
+[01] 00069: process 1 blocked
+[01] 00072: process 1 ready
+[01] 00072: process 1 running
+[01] 00073: process 1 ready
+[01] 00073: process 1 running
+[01] 00074: process 1 blocked (send)
+[01] 00077: process 1 ready
+[01] 00077: process 1 running
+[01] 00078: process 1 blocked (recv)
+[01] 00081: process 1 blocked
+[01] 00084: process 1 ready
+[01] 00084: process 1 running
+[01] 00085: process 1 ready
+[01] 00085: process 1 running
+[01] 00086: process 1 blocked (send)
+[01] 00089: process 1 ready
+[01] 00089: process 1 running
+[01] 00090: process 1 blocked (recv)
+[01] 00093: process 1 blocked
+[01] 00096: process 1 ready
+[01] 00096: process 1 running
+[01] 00097: process 1 ready
+[01] 00097: process 1 running
+[01] 00098: process 1 blocked (send)
+[01] 00101: process 1 ready
+[01] 00101: process 1 running
+[01] 00102: process 1 blocked (recv)
+[01] 00105: process 1 blocked
+[01] 00108: process 1 ready
+[01] 00108: process 1 running
+[01] 00109: process 1 ready
+[01] 00109: process 1 running
+[01] 00110: process 1 blocked (send)
+[01] 00113: process 1 ready
+[01] 00113: process 1 running
+[01] 00114: process 1 blocked (recv)
+[01] 00117: process 1 blocked
+[01] 00120: process 1 finished
+[02] 00000: process 1 new
+[02] 00000: process 1 ready
+[02] 00000: process 1 running
+[02] 00003: process 1 ready
+[02] 00003: process 1 running
+[02] 00004: process 1 blocked (recv)
+[02] 00005: process 1 ready
+[02] 00005: process 1 running
+[02] 00006: process 1 blocked (send)
+[02] 00007: process 1 blocked
+[02] 00012: process 1 ready
+[02] 00012: process 1 running
+[02] 00015: process 1 ready
+[02] 00015: process 1 running
+[02] 00016: process 1 blocked (recv)
+[02] 00017: process 1 ready
+[02] 00017: process 1 running
+[02] 00018: process 1 blocked (send)
+[02] 00019: process 1 blocked
+[02] 00024: process 1 ready
+[02] 00024: process 1 running
+[02] 00027: process 1 ready
+[02] 00027: process 1 running
+[02] 00028: process 1 blocked (recv)
+[02] 00029: process 1 ready
+[02] 00029: process 1 running
+[02] 00030: process 1 blocked (send)
+[02] 00031: process 1 blocked
+[02] 00036: process 1 ready
+[02] 00036: process 1 running
+[02] 00039: process 1 ready
+[02] 00039: process 1 running
+[02] 00040: process 1 blocked (recv)
+[02] 00041: process 1 ready
+[02] 00041: process 1 running
+[02] 00042: process 1 blocked (send)
+[02] 00043: process 1 blocked
+[02] 00048: process 1 ready
+[02] 00048: process 1 running
+[02] 00051: process 1 ready
+[02] 00051: process 1 running
+[02] 00052: process 1 blocked (recv)
+[02] 00053: process 1 ready
+[02] 00053: process 1 running
+[02] 00054: process 1 blocked (send)
+[02] 00055: process 1 blocked
+[02] 00060: process 1 ready
+[02] 00060: process 1 running
+[02] 00063: process 1 ready
+[02] 00063: process 1 running
+[02] 00064: process 1 blocked (recv)
+[02] 00065: process 1 ready
+[02] 00065: process 1 running
+[02] 00066: process 1 blocked (send)
+[02] 00067: process 1 blocked
+[02] 00072: process 1 ready
+[02] 00072: process 1 running
+[02] 00075: process 1 ready
+[02] 00075: process 1 running
+[02] 00076: process 1 blocked (recv)
+[02] 00077: process 1 ready
+[02] 00077: process 1 running
+[02] 00078: process 1 blocked (send)
+[02] 00079: process 1 blocked
+[02] 00084: process 1 ready
+[02] 00084: process 1 running
+[02] 00087: process 1 ready
+[02] 00087: process 1 running
+[02] 00088: process 1 blocked (recv)
+[02] 00089: process 1 ready
+[02] 00089: process 1 running
+[02] 00090: process 1 blocked (send)
+[02] 00091: process 1 blocked
+[02] 00096: process 1 ready
+[02] 00096: process 1 running
+[02] 00099: process 1 ready
+[02] 00099: process 1 running
+[02] 00100: process 1 blocked (recv)
+[02] 00101: process 1 ready
+[02] 00101: process 1 running
+[02] 00102: process 1 blocked (send)
+[02] 00103: process 1 blocked
+[02] 00108: process 1 ready
+[02] 00108: process 1 running
+[02] 00111: process 1 ready
+[02] 00111: process 1 running
+[02] 00112: process 1 blocked (recv)
+[02] 00113: process 1 ready
+[02] 00113: process 1 running
+[02] 00114: process 1 blocked (send)
+[02] 00115: process 1 blocked
+[02] 00120: process 1 finished
+[03] 00000: process 1 new
+[03] 00000: process 1 ready
+[03] 00000: process 1 running
+[03] 00004: process 1 ready
+[03] 00004: process 1 running
+[03] 00005: process 1 blocked (recv)
+[03] 00007: process 1 ready
+[03] 00007: process 1 running
+[03] 00008: process 1 blocked (send)
+[03] 00009: process 1 blocked
+[03] 00011: process 1 ready
+[03] 00011: process 1 running
+[03] 00015: process 1 ready
+[03] 00015: process 1 running
+[03] 00016: process 1 blocked (recv)
+[03] 00019: process 1 ready
+[03] 00019: process 1 running
+[03] 00020: process 1 blocked (send)
+[03] 00021: process 1 blocked
+[03] 00023: process 1 ready
+[03] 00023: process 1 running
+[03] 00027: process 1 ready
+[03] 00027: process 1 running
+[03] 00028: process 1 blocked (recv)
+[03] 00031: process 1 ready
+[03] 00031: process 1 running
+[03] 00032: process 1 blocked (send)
+[03] 00033: process 1 blocked
+[03] 00035: process 1 ready
+[03] 00035: process 1 running
+[03] 00039: process 1 ready
+[03] 00039: process 1 running
+[03] 00040: process 1 blocked (recv)
+[03] 00043: process 1 ready
+[03] 00043: process 1 running
+[03] 00044: process 1 blocked (send)
+[03] 00045: process 1 blocked
+[03] 00047: process 1 ready
+[03] 00047: process 1 running
+[03] 00051: process 1 ready
+[03] 00051: process 1 running
+[03] 00052: process 1 blocked (recv)
+[03] 00055: process 1 ready
+[03] 00055: process 1 running
+[03] 00056: process 1 blocked (send)
+[03] 00057: process 1 blocked
+[03] 00059: process 1 ready
+[03] 00059: process 1 running
+[03] 00063: process 1 ready
+[03] 00063: process 1 running
+[03] 00064: process 1 blocked (recv)
+[03] 00067: process 1 ready
+[03] 00067: process 1 running
+[03] 00068: process 1 blocked (send)
+[03] 00069: process 1 blocked
+[03] 00071: process 1 ready
+[03] 00071: process 1 running
+[03] 00075: process 1 ready
+[03] 00075: process 1 running
+[03] 00076: process 1 blocked (recv)
+[03] 00079: process 1 ready
+[03] 00079: process 1 running
+[03] 00080: process 1 blocked (send)
+[03] 00081: process 1 blocked
+[03] 00083: process 1 ready
+[03] 00083: process 1 running
+[03] 00087: process 1 ready
+[03] 00087: process 1 running
+[03] 00088: process 1 blocked (recv)
+[03] 00091: process 1 ready
+[03] 00091: process 1 running
+[03] 00092: process 1 blocked (send)
+[03] 00093: process 1 blocked
+[03] 00095: process 1 ready
+[03] 00095: process 1 running
+[03] 00099: process 1 ready
+[03] 00099: process 1 running
+[03] 00100: process 1 blocked (recv)
+[03] 00103: process 1 ready
+[03] 00103: process 1 running
+[03] 00104: process 1 blocked (send)
+[03] 00105: process 1 blocked
+[03] 00107: process 1 ready
+[03] 00107: process 1 running
+[03] 00111: process 1 ready
+[03] 00111: process 1 running
+[03] 00112: process 1 blocked (recv)
+[03] 00115: process 1 ready
+[03] 00115: process 1 running
+[03] 00116: process 1 blocked (send)
+[03] 00117: process 1 blocked
+[03] 00119: process 1 finished
+| 00119 | Proc 03.01 | Run 60, Block 20, Wait 0, Sends 10, Recvs 10
+| 00120 | Proc 01.01 | Run 30, Block 30, Wait 0, Sends 10, Recvs 10
+| 00120 | Proc 02.01 | Run 50, Block 50, Wait 0, Sends 10, Recvs 10

@@ -1,0 +1,18 @@
+[01] 00000: process 1 new
+[01] 00000: process 1 ready
+[01] 00000: process 1 running
+[01] 00000: process 2 new
+[01] 00000: process 2 ready
+[01] 00001: process 1 blocked (send)
+[01] 00001: process 2 running
+[01] 00002: process 2 blocked (recv)
+[01] 00003: process 1 ready
+[01] 00003: process 1 running
+[01] 00003: process 2 ready
+[01] 00004: process 1 blocked (recv)
+[01] 00004: process 2 running
+[01] 00005: process 2 blocked (send)
+[01] 00006: process 1 finished
+[01] 00006: process 2 finished
+| 00006 | Proc 01.01 | Run 2, Block 0, Wait 0, Sends 1, Recvs 1
+| 00006 | Proc 01.02 | Run 2, Block 0, Wait 2, Sends 1, Recvs 1

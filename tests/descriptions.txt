@@ -1,0 +1,12 @@
+00: 1 thread, 2 procs, one send/recv per proc
+01: 1 thread, 2 procs, two send/recv per proc
+02: 1 thread, 3 procs, two send/recv per proc
+03: 2 threads, 1 proc each, one send/recvper proc
+04: 2 threads, 1 proc each, two send/recv per proc
+05: 3 threads, 1 proc each, two send/recv per proc
+06: 4 threads, 1 proc each, two send/recv per proc
+07: 3 threads, 1 proc each, sending in a circle
+08: 3 threads, 1 proc each, sending in a circle 
+    loop this 10 times and include DOOP and BLOCK ops
+09: 3 threads, 2 proc each, sending in two disjoint circles
+    loop this 10 times and include DOOP and BLOCK ops

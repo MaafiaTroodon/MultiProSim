@@ -1,0 +1,8 @@
+2 5 2
+Proc1 2 1 1
+SEND 201
+HALT
+
+Proc2 2 1 2
+RECV 101
+HALT
